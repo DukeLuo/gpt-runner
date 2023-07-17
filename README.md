@@ -22,3 +22,8 @@ You can check out this [full example workflow](.github/workflows/gpt.yml) for mo
 ### Further Reading
 
 - [Promptr](https://github.com/ferrislucas/promptr)
+
+[![Donate][ko-fi-image]][ko-fi-url]
+
+[ko-fi-image]: https://ko-fi.com/img/githubbutton_sm.svg
+[ko-fi-url]: https://ko-fi.com/huanluo
