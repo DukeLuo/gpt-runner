@@ -1,6 +1,6 @@
 # GPT Runner
 
-This action allows you to run GPT Prompt from GitHub Actions.
+This action allows you to run GPT prompt for your codebase from GitHub Actions.
 
 ## How to start
 
@@ -10,7 +10,7 @@ To use this action in your workflow, you can add the following step:
 
 ```yaml
 - name: Run GPT Prompt
-  uses: DukeLuo/gpt-runner@v1
+  uses: DukeLuo/gpt-runner@v1.0.0
   env:
     OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
   with:
